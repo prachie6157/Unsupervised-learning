@@ -1,6 +1,7 @@
+# Unsupervised learning
 Unsupervised learning may sound like a fancy way to say “let the kids learn on their own not to touch the hot oven” but it’s actually a pattern-finding technique for mining inspiration from your data. It has nothing to do with machines running around without adult supervision, forming their own opinions about things. Let’s demystify!
 
-![alt text](https://starecat.com/content/wp-content/uploads/dog-i-have-no-idea-what-im-doing-science-chemistry.jpg)
+![meme](https://starecat.com/content/wp-content/uploads/dog-i-have-no-idea-what-im-doing-science-chemistry.jpg)
 ## What's Unsupervised Learning?
 Unsupervised Learning is a gadget getting to know technique in which the customers do not want to oversee the model.
 Instead, it lets in the model to paintings on its personal to discover patterns and statistics that become previously undetected.
@@ -12,6 +13,8 @@ Although, unsupervised studying may be more unpredictable as compared with diffe
 Unsupervised learning algorithms encompass clustering, anomaly detection, neural networks, and so on.
 
 ## Example of Unsupervised Machine Learning
+![example](https://sa-i1.fnp.com/images/pr/l/v20200919073632/fruit-basket_1.jpg )
+<br>
 Suppose you have a basket and it is fulled with some different types fruits, your task is to arrange them as groups.
 This time you don’t know any thing about the fruits, honestly saying this is the first time you have seen them. You have no clue about those.<br>
 So, how will you arrange them?<br>
